@@ -1,81 +1,81 @@
 [{
     "id": 1,
-    "image": "public/assets/images/Annabelle2.jpg",
+    "image": "./assets/images/Annabelle2.jpg",
     "clicked": false
 },
 {
     "id": 2,
-    "image": "./images/Brightburn.jpg",
+    "image": "./assets/images/Brightburn.jpg",
     "clicked": false
 },
 {
     "id": 3,
-    "image": "./images/carrie2013.jpg",
+    "image": "./assets/images/carrie2013.jpg",
     "clicked": false
 },
 {
     "id": 4,
-    "image": "./images/descent.jpg",
+    "image": "./assets/images/descent.jpg",
     "clicked": false
 },
 {
     "id": 5,
-    "image": "./images/elmstreet2.jpeg",
+    "image": "./assets/images/elmstreet2.jpeg",
     "clicked": false
 },
 {
     "id": 6,
-    "image": "./images/EscapeRoom.jpg",
+    "image": "./assets/images/EscapeRoom.jpg",
     "clicked": false
 },
 {
     "id": 7,
-    "image": "./images/finalD.jpg",
+    "image": "./assets/images/finalD.jpg",
     "clicked": false
 },
 {
     "id": 8,
-    "image": "./images/halloween-a.jpg",
+    "image": "./assets/images/halloween-a.jpg",
     "clicked": false
 },
 {
     "id": 9,
-    "image": "./images/halloween4.jpg",
+    "image": "./assets/images/halloween4.jpg",
     "clicked": false
 },
 {
     "id": 10,
-    "image": "./images/jigsaw.jpg",
+    "image": "./assets/images/jigsaw.jpg",
     "clicked": false
 },
 {
     "id": 11,
-    "image": "./images/polaroid.jpg",
+    "image": "./assets/images/polaroid.jpg",
     "clicked": false
 },
 {
     "id": 12,
-    "image": "./images/posessionex.jpg",
+    "image": "./assets/images/posessionex.jpg",
     "clicked": false
 },
 {
     "id": 13,
-    "image": "./images/rings.jpg",
+    "image": "./assets/images/rings.jpg",
     "clicked": false
 },
 {
     "id": 14,
-    "image": "./images/shutter.jpg",
+    "image": "./assets/images/shutter.jpg",
     "clicked": false
 },
 {
     "id": 15,
-    "image": "./images/thing.jpg",
+    "image": "./assets/images/thing.jpg",
     "clicked": false
 },
 {
     "id": 16,
-    "image": "./images/us.jpg",
+    "image": "./assets/images/us.jpg",
     "clicked": false
 }
 ]
