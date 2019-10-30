@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/horror-click/static/css/main.2962bdcf.chunk.css",
+    "main.js": "/horror-click/static/js/main.79df56a2.chunk.js",
+    "main.js.map": "/horror-click/static/js/main.79df56a2.chunk.js.map",
+    "runtime-main.js": "/horror-click/static/js/runtime-main.6209bd7b.js",
+    "runtime-main.js.map": "/horror-click/static/js/runtime-main.6209bd7b.js.map",
+    "static/js/2.9d3b6063.chunk.js": "/horror-click/static/js/2.9d3b6063.chunk.js",
+    "static/js/2.9d3b6063.chunk.js.map": "/horror-click/static/js/2.9d3b6063.chunk.js.map",
+    "index.html": "/horror-click/index.html",
+    "precache-manifest.e4fe24e39ac8906f7326667f66824e8f.js": "/horror-click/precache-manifest.e4fe24e39ac8906f7326667f66824e8f.js",
+    "service-worker.js": "/horror-click/service-worker.js",
+    "static/css/main.2962bdcf.chunk.css.map": "/horror-click/static/css/main.2962bdcf.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6209bd7b.js",
+    "static/js/2.9d3b6063.chunk.js",
+    "static/css/main.2962bdcf.chunk.css",
+    "static/js/main.79df56a2.chunk.js"
+  ]
+}
