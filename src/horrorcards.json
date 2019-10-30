@@ -1,0 +1,81 @@
+[{
+    "id": 1,
+    "image": "./assets/images/Annabelle2.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/Brightburn.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/carrie2013.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/descent.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/elmstreet2.jpeg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/EscapeRoom.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/finalD.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/halloween-a.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/halloween4.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/jigsaw.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/polaroid.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/posessionex.jpg",
+    "clicked": false
+},
+{
+    "id": 13,
+    "image": "./assets/images/rings.jpg",
+    "clicked": false
+},
+{
+    "id": 14,
+    "image": "./assets/images/shutter.jpg",
+    "clicked": false
+},
+{
+    "id": 15,
+    "image": "./assets/images/thing.jpg",
+    "clicked": false
+},
+{
+    "id": 16,
+    "image": "./assets/images/us.jpg",
+    "clicked": false
+}
+]

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "245450378d869797229ff31b6022b0b3",
+    "revision": "6c147c79f1628e16170c068d24522d55",
     "url": "/horror-click/index.html"
   },
   {
-    "revision": "1b46304cf16b44e304a9",
+    "revision": "4fe6997aee8ddfbe86f1",
     "url": "/horror-click/static/css/main.2962bdcf.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/horror-click/static/js/2.9d3b6063.chunk.js"
   },
   {
-    "revision": "1b46304cf16b44e304a9",
-    "url": "/horror-click/static/js/main.9a8eacf6.chunk.js"
+    "revision": "4fe6997aee8ddfbe86f1",
+    "url": "/horror-click/static/js/main.5d55718f.chunk.js"
   },
   {
     "revision": "0b089b2df3ae078b9b63",
