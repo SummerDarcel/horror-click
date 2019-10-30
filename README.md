@@ -1,10 +1,10 @@
-<<<<<<< HEAD
-# Horror Mivie Click Game
-***
+
+# Horror Movie Click Game
+
 This is a react based web application that allows you to chose a horror movie poster.  Once you select a horror movie, the positions will randomly change.  The goal of the game is to get all 16 movie posters guessed without selecting the same one twice! 
 
- https://summerdarcel.github.io/horror-click/
-=======
+https://summerdarcel.github.io/horror-click/
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -74,4 +74,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # horror-click
->>>>>>> parent of 59c797b... Updates
+
